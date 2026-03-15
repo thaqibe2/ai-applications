@@ -1,0 +1,8 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "/^python \"c:\\\\Users\\\\Besfort\\\\Desktop\\\\KI-Anwendungen\\\\ai-applications\\\\Assignment 1\\\\app\\.py\" 2>&1 \\| Select-Object -First 20$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}
